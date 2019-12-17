@@ -89,8 +89,8 @@ The current run times for all tasks are set for when I am usually using my lapto
 
 User Testing:
 User feedback was gathered using a questionnaire for feedback.  Feedback was gathered from both Nathan Forster and Marlon Dos Santos, the two primary users.
-The feedback results are contained in this repo folder as "User Feedback 1" and "User Feedback 2".  Also, I have uploaded the email response to the feedback
-because it contained additional feedback.  This is in the folder as "User Feedback Email"
+The feedback results are contained in this repo folder as "User Feedback 1.docx" (this is from Nathan Forster) and "User Feedback 2.docx" (from Marlon Dos Santos).  Also, I have uploaded the email response to the feedback
+because it contained additional feedback.  This is in the folder as "User Feedback Email.png"
 
 
 Refinement:
@@ -100,19 +100,21 @@ Fridays.
 
 I also updated the name of the sheets in the excel file to clarify what each sheet represents.
 
-I have uploaded "User Refinement Email" in which my partner and I discuss having the bot not be reliant on my laptop.  For longevity sake
-it is not practical to run on my laptop indefinitely.  Thus, my partner and I are working on a solution, though a solution has not yet been decided upon.
+I have uploaded "User Refinement Email.png" in which my partner and I discuss having the bot not be reliant on my laptop.
+For longevity sake it is not practical to run on my laptop indefinitely.  Thus, my partner and I are working on a solution, though a solution has not yet been decided upon.
+I also updated the code to only send one email to ETD instead of 2.
 
 Intro Pitch:
 Delivered in Class.  PowerPoint was messaged to you directly over Slack.
 
 Complexity:
 The code that I created for DPU Double Check is uploaded into this folder.
-""Is the python code for Monday mornings, which checks if there are dockets that do not have an AAG
-"" is the python code for Friday mornings, which checks for new briefs or orders filed.
-"" is the python code that inserts the default error message, which enables users to confirm if a scrape was conducted or not
-"" is the Google Sheet script code, which allows the Google Sheet to be automatically emailed after selecting triggers within google sheets.
-"" is a screenshot of the 3 BAT files, which tell my laptop to run the python files
+"DPU_Double_Check.ipynb"Is the python code for Monday mornings, which checks if there are dockets that do not have an AAG
+"DPU_Double_Check_Friday.ipynb" is the python code for Friday mornings, which checks for new briefs or orders filed.
+"Error_Check_For_DPU_Double_Check.ipynb" is the python code that inserts the default error message, which enables users to confirm if a scrape was conducted or not
+"Email Script.png" is the Google Sheet script code, which allows the Google Sheet to be automatically emailed after selecting triggers within google sheets.
+"Email Script Trigger.png" is the triggers for the email script.  (note if you want the text for the email script, let me know)
+"BAT Files.png" is a screenshot of the 3 BAT files, which tell my laptop to run the python files
 
 
 Impact:
@@ -120,16 +122,17 @@ Please find the feedback letter from Nathan Forster.  The letter is in this fold
 
 Fit:
 Please find the feedback letter from Nathan Forster.  The letter is in this folder and is name "Partner Letter"
-I also have uploaded an example report to this folder.  The report is labeled "Example Report."
+I also have uploaded an example report to this folder.  The report is labeled "Example Report Friday.xls"
+I also have uploaded an example of what the default error looks like.  This is labeled "Example Default Error.png"
 
 Documentation:
 Because my product is just an email with a report, I have written the body of the email to address typical user concerns.
-This email is uploaded to this file.  It is called "Example Email"
+This email is uploaded to this file.  It is called "Example Email.eml" and a text version is called "Example Email.txt"
 
 
 Real world viability:
 My bot is currently up and running.  However, because my code runs on my laptop, I have identified 3 possible solutions.
-I am working with my partner to find which will be best.  See attached file called "Next Steps" which is in this folder.
+I am working with my partner to find which will be best.  See attached file called "User Refinement Email.png" which is in this folder.
 
 Biography:
 This concludes the DPU Double Check biography.
