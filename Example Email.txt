@@ -1,0 +1,65 @@
+
+cwalkley25@gmail.com
+Attachments
+Dec 16, 2019, 10:54 AM (1 day ago)
+to me
+
+Hello!
+
+I am a Bot. This email contains the weekly DPU Double Check. Attached 
+should be an excel worksheet.
+
+  This bot will run twice per week.
+
+  On Monday morning, this bot will scan for new dockets without an AAG 
+(note: this means sheets 4,5, and 6 will be empty)
+
+  On Friday morning, this bot will scan for Briefs and Orders (note: this 
+means sheet 3 will be empty).
+
+  This bot has error messages programed, if you see or suspect an error, 
+please reach out.
+
+   As a reminder, see below for a description of each sheet containted in 
+this email:
+
+  1) Record_of_All_Dockets_with_an_AAG is a running record of dockets that 
+an AAG has intervened in. This record is updated weekly. It is not reset 
+weekly, but continuously updated each week. However, the record currently 
+does not take into account if an AAG removes themselves from a case.
+
+  2) Record_of_All_Dockets_No_AAG is a running record of dockets that do NOT 
+have an AAG. This record is updated weekly. It is not reset weekly, but 
+continuously updated each week.
+
+  3) New_Weekly_Dockets_Without_AAGs is a once weekly list of new dockets 
+that do not have an AAG. This record is current only for the week of this 
+email. A week runs Wednesday to Wednesday.
+
+  4) Weekly_New_Briefs is a once weekly list of new AGO Briefs. This record 
+is current only for the week of this email. A week runs Wednesday to 
+Wednesday.
+
+  5) Weekly_New_Orders is a once weekly list of new Orders by the DPU. This 
+list will contain any order, regardless if an AAG has intervened on the 
+case. A week runs Wednesday to Wednesday.
+
+  6) Weekly_New_Orders_With_AAGS is a once weekly list of new Orders by the 
+DPU. But this list only contains Orders if an AAG has intervened on the 
+case. However, the bot determines if an AAG is in appearance by 
+cross-checking the Record_of_Dockets_with_an_AAG and thus, will only be 
+accurate as time goes on and the list of cases on this record grows. A week 
+runs Wednesday to Wednesday.
+
+  -If you have any questions, please feel free to email me or my creator at 
+cwalkley25@gmail.com
+
+  -If you notice any errors, issues, or problems, please also email me, or 
+to my creator, so that problems can be addressed.
+
+  -If you want to request any features or new data, please reach out.
+
+  This concludes the weekly DPU Double Check. Stay tuned for future updates!
+
+  Thank you,
+//DPU Double Check BoT//
