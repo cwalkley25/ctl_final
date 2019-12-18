@@ -118,10 +118,11 @@ The code that I created for DPU Double Check is uploaded into this folder.
 
 
 Impact:
-Please find the feedback letter from Nathan Forster.  The letter is in this folder and is name "Partner Letter"
+I'm still waiting on a feedback letter.  But for now, I have attached screenshots from feedback that I have gotten throughout the course of the project.
+Please find the feedback I have now called "Feedback Screens.png", in additon review "User Refinement Email.png" and "User Feedback Emaikl.png"
 
 Fit:
-Please find the feedback letter from Nathan Forster.  The letter is in this folder and is name "Partner Letter"
+Please find the feedback I have now called "Feedback Screens.png". in additon review "User Refinement Email.png" and "User Feedback Emaikl.png" 
 I also have uploaded an example report to this folder.  The report is labeled "Example Report Friday.xls"
 I also have uploaded an example of what the default error looks like.  This is labeled "Example Default Error.png"
 
