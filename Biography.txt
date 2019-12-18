@@ -135,5 +135,7 @@ Real world viability:
 My bot is currently up and running.  However, because my code runs on my laptop, I have identified 3 possible solutions.
 I am working with my partner to find which will be best.  See attached file called "User Refinement Email.png" which is in this folder.
 
+
+*Update* Partner Letter is labeled "Screenshot_20191218-140755.png" and copies were emailed and slacked as well.  If too late, completely understand.
 Biography:
 This concludes the DPU Double Check biography.
